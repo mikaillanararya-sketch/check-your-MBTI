@@ -2,6 +2,11 @@
 
 A decentralized MBTI personality test application built using Rust and Soroban SDK on the Stellar blockchain network.
 
+## Contract Information
+| Item        | Value                                                      |
+| ----------- | ---------------------------------------------------------- |
+| Contract ID | `CCD6YLZVJMWSSPIOSQ7BOR2Q5UJNKG5OZZILMX4L52YJUWOXETJFIGU3` |
+
 ## Features
 
 * Determine MBTI personality type automatically
